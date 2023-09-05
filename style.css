@@ -159,9 +159,9 @@ body {
 
 .about img {
     width: 40%;
-    border-radius: 40%;
+    border-radius: 20px;
     margin-bottom: 3rem;
-    box-shadow: 0 0 10px #333;
+    box-shadow: 0 0 5px #333;
 }
 
 .about {
